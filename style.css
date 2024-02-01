@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Kumbh Sans;
+}
+
+.btn{
+    background-color: #20AD96;
+    color:white;
+    padding: 10px;
+    border-radius: 6px;
+}
